@@ -24,9 +24,9 @@ For each of the city types, there does not appear to be a high or low season tha
 ### Results Summary
 The figures below illustrates the data presented above.
 
-![Ride_summary](Pyber_ride_summary_data.png)
+![Ride_summary](analysis/Pyber_ride_summary_data.png)
 
-![Monthly_summary](Pyber_fare_summary.png)
+![Monthly_summary](analysis/Pyber_fare_summary.png)
 
 ## Project Summary
 Leveraging the data above, the following recommendations are made:
