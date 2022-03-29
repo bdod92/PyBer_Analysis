@@ -18,6 +18,18 @@ Conversely, the average fare per ride decreases as the population density increa
 ### Average Fare per Driver
 The average fare per driver decreases as the population density increases. ie average fare per driver follows: Urban < Suburban < Rural.
 
-### Summary
-The figure below illustrates the data presented above.
-![Ride_summary](Pyber_ride_summary.png)
+### Chronological Fare Comparison
+For each of the city types, there does not appear to be a high or low season that appreciably stands out.
+
+### Results Summary
+The figures below illustrates the data presented above.
+
+![Ride_summary](Pyber_ride_summary_data.png)
+
+![Monthly_summary](Pyber_fare_summary.png)
+
+## Project Summary
+Leveraging the data above, the following recommendations are made:
+1. If the goal is to mitigate disparities between the city types, the Urban and Suburban rates should be brought up to the level of the Rural rates.
+2. Another method to address this would be to hire more drivers for the less populated cities -- this would increase driver supply and lower the demand on each driver, lowering prices.
+3. To improve job satisfication, stop hiring in Urban areas until the total drivers to total rides ratio drops below 1. This will increase the rides per driver and increase wages.
